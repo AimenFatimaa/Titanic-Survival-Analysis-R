@@ -72,18 +72,6 @@ Using the dplyr package, passenger groups were analyzed and their survival rates
 
 The results highlight differences in survival according to passenger fare, embarkation location, and gender.
 
-## Repository Contents
-
-```text
-Titanic-Survival-Analysis-R/
-│
-├── Titanic_Survival_Analysis.R
-├── README.md
-├── DATASET.md
-└── titanic.csv
-```
-
-The R script contains the complete analysis and calculations.
 
 ## How to Run the Project
 
